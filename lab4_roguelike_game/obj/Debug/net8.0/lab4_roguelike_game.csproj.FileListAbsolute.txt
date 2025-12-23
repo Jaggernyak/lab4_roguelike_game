@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\lab4_roguelike_game\bin\Debug\net8.0\lab4_roguelike_game.exe
+C:\Users\user\source\repos\lab4_roguelike_game\bin\Debug\net8.0\lab4_roguelike_game.deps.json
+C:\Users\user\source\repos\lab4_roguelike_game\bin\Debug\net8.0\lab4_roguelike_game.runtimeconfig.json
+C:\Users\user\source\repos\lab4_roguelike_game\bin\Debug\net8.0\lab4_roguelike_game.dll
+C:\Users\user\source\repos\lab4_roguelike_game\bin\Debug\net8.0\lab4_roguelike_game.pdb
+C:\Users\user\source\repos\lab4_roguelike_game\obj\Debug\net8.0\lab4_roguelike_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\lab4_roguelike_game\obj\Debug\net8.0\lab4_roguelike_game.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\lab4_roguelike_game\obj\Debug\net8.0\lab4_roguelike_game.AssemblyInfo.cs
+C:\Users\user\source\repos\lab4_roguelike_game\obj\Debug\net8.0\lab4_roguelike_game.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lab4_roguelike_game\obj\Debug\net8.0\lab4_roguelike_game.dll
+C:\Users\user\source\repos\lab4_roguelike_game\obj\Debug\net8.0\refint\lab4_roguelike_game.dll
+C:\Users\user\source\repos\lab4_roguelike_game\obj\Debug\net8.0\lab4_roguelike_game.pdb
+C:\Users\user\source\repos\lab4_roguelike_game\obj\Debug\net8.0\lab4_roguelike_game.genruntimeconfig.cache
+C:\Users\user\source\repos\lab4_roguelike_game\obj\Debug\net8.0\ref\lab4_roguelike_game.dll
